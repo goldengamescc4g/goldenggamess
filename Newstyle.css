@@ -1,0 +1,216 @@
+body {
+padding: 0%;
+margin: 0%;
+margin-top: 0%;
+padding: 0%;
+background-color: #03080f;
+
+}
+.game_box {
+    margin-left: 110px;
+}
+.game_frame, #game_box{
+    width:1112px;
+    height:620px}
+
+
+header {
+    padding: 15px;
+    box-shadow: 0 0 3px #0000;
+    background-color: #fff;
+    width: 1300px;
+    background-color: black;
+}
+
+header li {
+display: inline;
+padding-left: 1px;
+left: 1px;
+}
+
+header li a {
+    color: #333;
+    text-decoration: none;
+    padding: 13px;
+    font: bold;
+    font-family: sans-serif;
+    color: white;
+    
+    
+}
+header li a:hover {
+    color: royalblue;
+}
+
+
+header ul #contact a:hover {
+    background-color: gold;
+}
+header li img {
+    width: 180px;
+    float: left;
+    margin-top: -20px;
+    height: 60px;
+    background-color: black;
+}
+.active {
+    color: royalblue;
+}
+h1[class="head"] {
+    color: white;
+    font-style: sans-serif;
+    text-align: center;
+}
+.search-box {
+    position: absolute;
+    top: 6%;
+    left: 85%;
+    transform: translate(-50%,-50%);
+    background: #2f3640;
+    height: 40px;
+    border-radius: 40px;
+    padding: 5px;
+    width: 230px;
+
+}
+.searchb {
+    color: #e84118;
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #2f3640;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+.search {
+    border: none;
+    background: none;
+    outline: none;
+    float: left;
+    padding: 0;
+    color: white;
+    font-size: 16px;
+    transition: 0.4s;
+    line-height: 40px;
+    text-align: center;
+    
+    
+}
+.head {
+    color: white;
+}
+.img {
+    height: 150px;
+    width: 150px;
+    border-radius: 25px;
+    margin: 5px;
+  
+}
+.img:hover {
+   cursor: pointer;
+   transform: scale(1.1);
+   z-index: 2;
+   transition: 0.3s;
+   
+}
+canvas {
+    height: 500px;
+    width: 500px;
+    
+}
+.container {
+    width: 700px;
+    margin: 10vh auto 0 auto;
+    border-radius: 0px; 
+    padding: 50px;
+    border-width: 3px;
+    background-color: black;
+}
+.marquee {
+    color: royalblue;
+    margin-bottom: 0%;
+}
+.vid {
+    width: 500px;
+    height: 500px;
+}
+.walkthrough {
+    margin-bottom: 0%;
+}
+.incomplete {
+    margin-left: 2px;
+}
+.page a {
+     color: white;
+    text-decoration: none;
+    margin: 25px;
+    background-color: blue;
+    padding: 25px;
+    margin-top: 50px;
+    border-radius: 4500px;
+    border: 3px solid white;
+    margin: 20px auto;
+    outline: none;
+
+}
+
+.about
+ {
+     height: 500px;
+     width: 1000px;
+     background-color: white;
+     margin-top: 50px;
+     border-radius: 100px;
+     margin-left: 10%;
+     text-align: center;
+     
+ }
+ .under-games{
+    margin-left: 110px;
+ }
+ .page-dots
+ {
+    color: white;
+    text-decoration: none;
+    margin: 25px;
+    background-color: darkblue;
+    padding: 25px;
+    margin-top: 50px;
+    border-radius: 4500px;
+    border: 3px solid white;
+    margin: 20px auto;
+    outline: none;
+    cursor: pointer;
+ 
+}
+
+.search-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: .25rem;
+}
+input {
+    font-size: 1rem;
+}
+.under {
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.header_img {
+ border-radius: 25px;   
+}
+.under_img {
+    height: 150px;
+    width: 150px;
+    padding-left: 7px;
+   
+}
+.under-game {
+    margin-left: 110px;
+}
+.picture{
+    margin-left: 20px;
+}
