@@ -1,0 +1,1 @@
+var adsAreWorking = true;
