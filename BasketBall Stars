@@ -1,0 +1,116 @@
+<div id="item-container" class="item-container" data-item-height="480" data-item-width="900" data-item-supports-resizing="true" data-item-ratio-tolerant="false" data-maximize="false" data-focus-object="false" data-focus-html5-content="true">
+            <div id="html5-ima-overlay" class="html5-ima-overlay smart-frame-item-direct-container" data-supports-resizing="true" data-ratio-tolerant="false" width="900" height="480" style="width:900px;height:480px;">
+  <div id="html5-ima-loading" class="html5-ima-loading"></div>
+  <div id="html5-ima" class="html5-ima">
+  </div>
+  <script type="text/javascript" src="//imasdk.googleapis.com/js/sdkloader/outstream.js"></script>
+</div>
+
+
+
+          <iframe id="html5-content" class="item-direct-container resizable" allow="autoplay" allowfullscreen="" scrolling="no" data-src="https://storage.y8.com/y8-studio/html5/madpuffers/Basketball_2019_new/?key=2365427&amp;value=167031" style="display: block;" src="https://storage.y8.com/y8-studio/html5/madpuffers/Basketball_2019_new/?key=2365427&amp;value=167031" width="900" height="480" frameborder="0"></iframe>
+
+
+          <div class="game-control-container hidden-xs" style="width: 900px;">
+            <div class="left-control-container">
+                  <div class="game-control-title">
+                    Game controls
+                  </div>
+                    <div class="keys-for-game centered-list">
+  <ul>
+      <li>
+          <div class="key-definition key-definition-pl1">
+            <div class="keyboard-key key-pl1"></div>
+            <div class="action-text-container">
+              :
+            </div>
+          </div>
+          <div class="key-definition key-definition-arrow">
+            <div class="keyboard-key key-arrow"></div>
+            <div class="action-text-container">
+              Move
+            </div>
+          </div>
+          <div class="key-definition key-definition-l-x">
+            <div class="keyboard-key key-l"></div><div class="keyboard-key key-x"></div>
+            <div class="action-text-container">
+              Shoot/Steal
+            </div>
+          </div>
+          <div class="key-definition key-definition-k-z">
+            <div class="keyboard-key key-k"></div><div class="keyboard-key key-z"></div>
+            <div class="action-text-container">
+              Supershot
+            </div>
+          </div>
+          <div class="key-definition key-definition-ad">
+            <div class="keyboard-key key-ad"></div>
+            <div class="action-text-container">
+              Pump/Block
+            </div>
+          </div>
+      </li>
+      <li>
+          <div class="key-definition key-definition-pl2">
+            <div class="keyboard-key key-pl2"></div>
+            <div class="action-text-container">
+              :
+            </div>
+          </div>
+          <div class="key-definition key-definition-wasd">
+            <div class="keyboard-key key-wasd"></div>
+            <div class="action-text-container">
+              Move
+            </div>
+          </div>
+          <div class="key-definition key-definition-l-b">
+            <div class="keyboard-key key-l"></div><div class="keyboard-key key-b"></div>
+            <div class="action-text-container">
+              Shoot/Steal
+            </div>
+          </div>
+          <div class="key-definition key-definition-k-v">
+            <div class="keyboard-key key-k"></div><div class="keyboard-key key-v"></div>
+            <div class="action-text-container">
+              Supershot
+            </div>
+          </div>
+          <div class="key-definition key-definition-s">
+            <div class="keyboard-key key-s"></div>
+            <div class="action-text-container">
+              Pump/Block
+            </div>
+          </div>
+      </li>
+      <li>
+          <div class="key-definition key-definition-al-ar">
+            <div class="keyboard-key key-al"></div><div class="keyboard-key key-ar"></div>
+            <div class="action-text-container">
+              Dash left/right
+            </div>
+          </div>
+      </li>
+  </ul>
+</div>
+
+            </div>
+
+              <div class="right-control-container">
+                <div class="game-control-title">
+                  Adjust or maximize
+                </div>
+                <div class="screen-size-actions">
+  <div class="adjust-button" id="adjust-button">
+    <img src="https://img-hws.y8.com/assets/svg/resize-v2-9649eb0b0be2316730dbea99ce24249131ab8ccb2a1c0b994e2695508cc76da5.svg" alt="Adjust">
+    <img src="https://img-hws.y8.com/assets/svg/resize-v2-hover-4ec230383e627fb43f7174e8448fd7a7e7774967f36600e3b1ff93a0eda63daa.svg" alt="Adjust">
+  </div>  
+
+  <div class="maximize-button" id="maximize-button">
+    <img src="https://img-hws.y8.com/assets/svg/maximize-v2-9255bbce5dbf654a9fea165155f6d3fef74abe90e58d30dc18e69f88cd052a5e.svg" alt="Maximize">
+    <img src="https://img-hws.y8.com/assets/svg/maximize-v2-hover-49a55803d20b8afd79162fab4c48e1e9eea6cd621ca8e213ed00ab6562b0a14d.svg" alt="Maximize">
+  </div>  
+</div>
+
+              </div>
+          </div>
+</div>
